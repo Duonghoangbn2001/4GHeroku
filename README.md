@@ -9,7 +9,7 @@ Với nhu cầu không quá cao thì heroku chính là giải pháp hoàn hảo 
 
 Anh em xem hướng dẫn ở đây nhé:
 
-[![4G Free](https://img.youtube.com/vi/79jkqGWi0zU/0.jpg)](https://www.youtube.com/watch?v=79jkqGWi0zU)
+[![4G Free](https://img.youtube.com/vi/79jkqGWi0zU/0.jpg)](*)
 
 =============================================================
 
